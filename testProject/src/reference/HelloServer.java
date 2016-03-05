@@ -54,6 +54,4 @@ public class HelloServer {
 		}
 	}
 }
-ss HelloServer {
 
-}
